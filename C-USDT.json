@@ -1,0 +1,12 @@
+{
+  "name": "C-USDT",
+  "symbol": "C-USDT",
+  "description": "Only Possible On Solana",
+  "image": "https://assets.coingecko.com/coins/images/11621/large/cUSDT.png",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Compressed Coil"
+    }
+  ]
+}
