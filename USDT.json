@@ -1,0 +1,12 @@
+{
+    "name": "USDT",
+    "symbol": "USDT",
+    "description": "Only Possible On Solana",
+    "image": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Compressed Coil"
+      }
+    ]
+  }
